@@ -2,7 +2,7 @@
 
 Information technology consulting company website, hosted via GitHub Pages.
 
-Live site: https://wangjiahong.github.io
+Live site: [https://wangjiahong.github.io](https://wangjiahong.github.io)
 
 ## Structure
 
@@ -20,7 +20,7 @@ Serve the folder with any static file server, for example:
 python3 -m http.server 8000
 ```
 
-Then open http://localhost:8000 in your browser.
+Then open [http://localhost:8000](http://localhost:8000) in your browser.
 
 ## Deployment
 
